@@ -6,9 +6,11 @@ const Search = () => {
 			<div className={classes.searchcont}>
 				<input className={classes.input} type="text" placeholder="Type a message" />
 				<div className={classes.ok}>
-					<a>
-						<BsArrowRightShort />
-					</a>
+					<div className={classes.icn}>
+						<a>
+							<BsArrowRightShort />
+						</a>
+					</div>
 				</div>
 			</div>
 		</>

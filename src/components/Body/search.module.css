@@ -21,10 +21,15 @@
 	border-radius: 100%;
 	position: absolute;
 	right: 8%;
-	bottom: 10%;
+	bottom: 5%;
 }
-.ok a {
+.icn {
+	/* background-color: aqua; */
+	margin-top: 0.2rem;
+}
+.icn a {
 	color: #fff;
 	font-size: 1.5rem;
-	align-items: center;
+
+	margin-top: 1rem;
 }
