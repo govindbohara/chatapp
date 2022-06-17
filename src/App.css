@@ -1,0 +1,8 @@
+.rightcolored {
+	position: absolute;
+	bottom: 0rem;
+	right: 0%;
+	width: 25rem;
+	background-image: linear-gradient(#c441ff, #af3efe, #993cff);
+	height: 45rem;
+}

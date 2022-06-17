@@ -1,0 +1,23 @@
+.main {
+	position: relative;
+}
+.colored {
+	position: absolute;
+	background-image: linear-gradient(#c441ff, #af3efe, #993cff);
+	left: 0;
+	top: 0;
+	width: 26rem;
+	height: 42rem;
+	border-bottom-left-radius: 250px;
+	border-bottom-right-radius: 270px;
+}
+.rightcolored {
+	position: absolute;
+	background-color: #f9f4fa;
+	right: 0;
+	top: 0;
+	width: 20rem;
+	height: 40rem;
+	margin-top: 9.7rem;
+	border-radius: 250px 0px 0 0;
+}

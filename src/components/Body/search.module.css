@@ -1,0 +1,30 @@
+.searchcont {
+	margin: 1rem 0 0 0.8rem;
+	position: relative;
+}
+.input {
+	width: 17rem;
+	border-radius: 20px;
+	padding: 0.8rem 1rem 0.8rem 1.8rem;
+	font-size: 15px;
+	border: none;
+	outline: none;
+	color: #e4e5e7;
+}
+.input::placeholder {
+	color: #e4e5e7;
+}
+.ok {
+	background-color: #3d2450;
+	display: inline-block;
+	padding: 0.1rem 0.3rem;
+	border-radius: 100%;
+	position: absolute;
+	right: 8%;
+	bottom: 10%;
+}
+.ok a {
+	color: #fff;
+	font-size: 1.5rem;
+	align-items: center;
+}
